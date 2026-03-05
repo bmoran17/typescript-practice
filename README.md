@@ -25,3 +25,8 @@
 - Created `Circle` & `Rectangle` that extend on `Shape` class
 - Created instances of all 3 classes & called their `getInfo` method
 - Created an array of instances from the classes
+
+**06 - Abstract Classes**
+- Turn `Shape' class into abstract class
+- Added abstract method `calculateArea()`
+- Implemented `calculateArea()` accordingly for `Circle` & `Rectangle` class

@@ -30,3 +30,7 @@
 - Turn `Shape' class into abstract class
 - Added abstract method `calculateArea()`
 - Implemented `calculateArea()` accordingly for `Circle` & `Rectangle` class
+
+**07 - Interfaces**
+- Created a `Coach` interface
+- Created 2 classes `SwimmingCoach` & `TennisCoach` that implement the interface

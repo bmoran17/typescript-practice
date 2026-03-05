@@ -19,3 +19,9 @@
 - 03 tsconfig: Added a `tsconfig` file for compiler options and project settings
 - 04 Parameter Properties: Changed constructor to short cut approach
 - 05 Modules: Used modules to separate code
+
+**05 - Inheritance**
+- Created `Shape` class that has 2 parameter properties & `getInfo` method
+- Created `Circle` & `Rectangle` that extend on `Shape` class
+- Created instances of all 3 classes & called their `getInfo` method
+- Created an array of instances from the classes
